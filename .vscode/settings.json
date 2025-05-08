@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PSQL",
+            "database": "retail_db",
+            "username": "ankith",
+            "password": "postgres2025",
+            "connectionTimeout": 30
+        }
+    ]
+}
